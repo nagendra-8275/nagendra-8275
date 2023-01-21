@@ -7,9 +7,9 @@ Full-stack Mobile developer. I like Android/iOS a little too much. Interested in
 
 Skills: Android | iOS | Kotlin | Swift | OpenCV | Vision | deep learning 
 
-- 🔭 I’m currently working on React Native, machine learning 
-- ⚡ Technology: 
-  • Kotlin \n
+-  I’m currently working on React Native, machine learning 
+- ⚡ Technology worked: 
+  • Kotlin
   • MVI
   • Co-routines
   • Kotlin-flow
