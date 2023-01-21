@@ -9,7 +9,7 @@ Skills: Android | iOS | Kotlin | Swift | OpenCV | Vision | deep learning
 
 - 🔭 I’m currently working on React Native, machine learning 
 - ⚡ Technology: 
-  • Kotlin
+  • Kotlin \n
   • MVI
   • Co-routines
   • Kotlin-flow
