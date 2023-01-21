@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14208
-Fork on GitHub
-3781
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Nagendra Singh</h1>
 <h3 align="center">A passionate Mobile full stack developer from Sharechat, India</h3>
 
