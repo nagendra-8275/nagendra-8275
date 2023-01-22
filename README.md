@@ -7,7 +7,7 @@ Full-stack Mobile developer. I like Android/iOS a little too much. Interested in
 
 Skills: Android | iOS | Kotlin | Swift | OpenCV | Vision | deep learning 
 
--  I’m currently working on React Native, machine learning 
+-  I’m currently working on React Native, Flutter and OpenGL programming.
 - ⚡ Technology worked:
  
   • Kotlin\
