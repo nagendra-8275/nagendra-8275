@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 **Currently Exploring:** React Native, Flutter, and OpenGL Programming  
+- 🌱 **Currently Exploring:** React Native, Flutter, OpenGL Programming & Agentic AI  
 - 🎯 **Focused On:** Architecture Patterns (MVI), AR Features, and ML Integrations  
 - ⚡ **Fun Fact:** I love diving deep into tech while ensuring clean, scalable designs!
 
