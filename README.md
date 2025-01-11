@@ -25,13 +25,13 @@
 
 ### 🌟 **Technologies I've Worked With:**
 - **Mobile:**  
-  `Kotlin`, `Swift`, `React Native`, `Flutter`  
+  `Kotlin`, `Swift`, `Flutter`  
 - **Frameworks/Patterns:**  
   `MVI`, `Coroutines`, `Flow`, `Data Binding`, `LiveData`  
 - **Backend & Tools:**  
   `Firebase`, `Gson`, `Hilt`, `Dagger2`, `OpenGL`  
 - **AI/ML Tools:**  
-  `MediaPipe`, `TensorFlow Lite`, `Computer Vision`  
+  `MediaPipe`, `TensorFlow Lite`, `ML-kit`  
 
 ---
 
