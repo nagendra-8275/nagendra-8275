@@ -28,7 +28,7 @@
 ---
 
 ### 💼 **Professional Skills**
-- **Mobile Development:** Kotlin, Swift, React Native, Flutter  
+- **Mobile Development:** Kotlin, Swift, React Native, Flutter, Web - React JS  
 - **AI/ML Tools:** TensorFlow Lite, MediaPipe, ML Kit, OpenCV  
 - **Design Patterns & Frameworks:** MVI, Data Binding, Dagger2, Hilt  
 - **Backend & Tools:** Python-FastAPI, Postgres, Celeey, Redis,Firebase, Gson, OpenGL, Unit Testing  
