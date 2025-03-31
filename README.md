@@ -31,7 +31,7 @@
 - **Mobile Development:** Kotlin, Swift, React Native, Flutter  
 - **AI/ML Tools:** TensorFlow Lite, MediaPipe, ML Kit, OpenCV  
 - **Design Patterns & Frameworks:** MVI, Data Binding, Dagger2, Hilt  
-- **Backend & Tools:** Firebase, Gson, OpenGL, Unit Testing  
+- **Backend & Tools:** Python-FastAPI, Postgres, Celeey, Redis,Firebase, Gson, OpenGL, Unit Testing  
 
 ---
 
