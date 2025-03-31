@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm **Nagendra Singh**  
-#### 🚀 Principle Engineer | AR-Camera Enthusiast | AI/ML  
+#### 🚀 SDE-4 Engineer | AR-Camera Enthusiast | AI/ML  
 
 ![Default Banner](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
